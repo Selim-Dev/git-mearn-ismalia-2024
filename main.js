@@ -1,3 +1,3 @@
 hello;
 line;
-console.log("master branch");
+console.log("conflict branch branch");
